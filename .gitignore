@@ -27,4 +27,5 @@ config/xml/default_country_modules_list.xml
 config/xml/modules_native_addons.xml
 config/xml/must_have_modules_list.xml
 config/xml/tab_modules_list.xml
-robots.txt
+*robots.txt*
+config/xml/
