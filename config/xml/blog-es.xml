@@ -6,6 +6,22 @@
     <language>es</language>
      <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>¿Cuáles son las diferencias entre un atributo y una característica?</title>
+    <link>https://www.prestashop.com/es/blog/hablemos-de-productos-en-que-se-diferencian-un-atributo-y-una-caracteristica</link>
+    <description>En el ámbito del comercio electrónico, no te preocupes si te cuesta diferenciar entre atributos y características de productos: ¡no eres el único!</description>
+     <pubDate>Fri, 17 May 2019 00:51:44 +0200</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/hablemos-de-productos-en-que-se-diferencian-un-atributo-y-una-caracteristica</guid>
+  </item>
+  <item>
+    <title>Agenda del &amp;quot;PrestaShop Day 2019 Madrid&amp;quot;, el evento eCommerce del año</title>
+    <link>https://www.prestashop.com/es/blog/agenda-prestashop-day-madrid</link>
+    <description>¿Has asistido ya a alguna de las anteriores ediciones del &quot;PrestaShop Day&quot; de Madrid?</description>
+     <pubDate>Tue, 14 May 2019 13:26:22 +0200</pubDate>
+ <dc:creator>Bertrand Amaraggi</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/agenda-prestashop-day-madrid</guid>
+  </item>
+  <item>
     <title>¿Qué es el CPA y cómo usarlo para mejorar tu estrategia digital?</title>
     <link>https://www.prestashop.com/es/blog/que-es-el-cpa-online</link>
     <description>¿Aún no conoces qué es el CPA y cómo puede ayudarte a mejorar la rentabilidad de tu negocio?</description>
@@ -38,6 +54,14 @@
  <guid isPermaLink="false">https://www.prestashop.com/es/blog/las-diez-mejores-funcionalidades-para-aumentar-las-ventas-y-la-eficiencia-de-tu-tienda</guid>
   </item>
   <item>
+    <title>¿Qué son los Grupos de clientes y cómo gestionarlos en PrestaShop?</title>
+    <link>https://www.prestashop.com/es/blog/grupos-de-clientes</link>
+    <description>Lo más importante en tu tienda, son tus clientes, evidentemente, por eso es muy importante que tu plataforma de eCommerce te permita gestionar grupos de clientes de la forma más ef</description>
+     <pubDate>Tue, 23 Apr 2019 10:18:08 +0200</pubDate>
+ <dc:creator>Carlos Cámara</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/grupos-de-clientes</guid>
+  </item>
+  <item>
     <title>¿Qué son los atributos &amp;quot;rel=next&amp;quot; y &amp;quot;rel=prev&amp;quot; y cómo afectan a tu tienda online?</title>
     <link>https://www.prestashop.com/es/blog/rel-next-prev</link>
     <description>¿Sabes qué son el &quot;rel=next&quot; y &quot;rel=prev&quot; y cómo funciona la paginación de tu PrestaShop?</description>
@@ -60,30 +84,6 @@
      <pubDate>Wed, 17 Apr 2019 13:00:02 +0200</pubDate>
  <dc:creator>Eva Lacalle</dc:creator>
  <guid isPermaLink="false">https://www.prestashop.com/es/blog/nuevas-funcionalidades-prestashop</guid>
-  </item>
-  <item>
-    <title>¿Cómo actualizar mi tienda de PrestaShop 1.6 a 1.7 paso a paso?</title>
-    <link>https://www.prestashop.com/es/blog/actualizar-prestashop-1-6-a-1-7</link>
-    <description>¿Tienes desactualizada la web de tu eCommerce y necesitas actualizar tu PrestaShop de la versión 1.6 a la 1.7?</description>
-     <pubDate>Mon, 15 Apr 2019 14:07:28 +0200</pubDate>
- <dc:creator>Antonio Torres</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/actualizar-prestashop-1-6-a-1-7</guid>
-  </item>
-  <item>
-    <title>¿Cómo hacer una factura electrónica u online para tu tienda PrestaShop?</title>
-    <link>https://www.prestashop.com/es/blog/modulos-factura-electronica</link>
-    <description>¿Aún no te apoyas en herramientas profesionales para hacer facturas electrónicas dentro de la actividad de tu tienda online?</description>
-     <pubDate>Thu, 11 Apr 2019 13:57:36 +0200</pubDate>
- <dc:creator>Mariela Quiroga</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-factura-electronica</guid>
-  </item>
-  <item>
-    <title>5 Mejores módulos para crear un sistema de reservas online en PrestaShop</title>
-    <link>https://www.prestashop.com/es/blog/modulos-sistema-reservas-online</link>
-    <description>Los sistemas de reserva online son algo que no todo el mundo conoce y que, probablemente, a todo el mundo que tiene un eCommerce le convendría conocer y saber manejar.</description>
-     <pubDate>Tue, 09 Apr 2019 16:49:33 +0200</pubDate>
- <dc:creator>Jose Facchin</dc:creator>
- <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-sistema-reservas-online</guid>
   </item>
   </channel>
 </rss>

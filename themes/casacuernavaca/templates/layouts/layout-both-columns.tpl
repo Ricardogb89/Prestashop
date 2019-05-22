@@ -53,6 +53,7 @@
       {/block}
 
       <section id="wrapper">
+          {hook h="displayFullColumn"}
         {hook h="displayWrapperTop"}
         <div class="container">
           {block name='breadcrumb'}
